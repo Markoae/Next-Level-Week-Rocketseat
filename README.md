@@ -1,4 +1,4 @@
-# Next-Level-Week-Rockseat: Ecoleta 
+# Next-Level-Week-Rocketseat: Ecoleta 
 ## Projeto da Next Level Week ministrado pela Rockseat e instruido pelo Diego Fernandes.
 
 Foi desenvolvido durante a semana do meio ambiente uma aplicação do zero,web e mobile. O intuito da aplicação é cadastrar e exibir pontos de coleta de materiais recicláveis atráves da localização do usuário, as tecnologias usadas foram as seguintes:
